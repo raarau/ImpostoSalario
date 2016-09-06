@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\bin\Debug\ImpostoSalarioLiquido.exe.config
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\bin\Debug\ImpostoSalarioLiquido.exe
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\bin\Debug\ImpostoSalarioLiquido.pdb
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\obj\Debug\ImpostoSalarioLiquido.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\obj\Debug\ImpostoSalarioLiquido.exe
+C:\Users\Rodrigo\Desktop\Exercicios PP_Celia\Paradigmas_exercicios 2\ImpostoSalarioLiquido\ImpostoSalarioLiquido\obj\Debug\ImpostoSalarioLiquido.pdb
+C:\Users\Rodrigo\Desktop\ImpostoSalarioLiquido\ImpostoSalarioLiquido\bin\Debug\ImpostoSalarioLiquido.exe.config
+C:\Users\Rodrigo\Desktop\ImpostoSalarioLiquido\ImpostoSalarioLiquido\obj\Debug\ImpostoSalarioLiquido.exe
+C:\Users\Rodrigo\Desktop\ImpostoSalarioLiquido\ImpostoSalarioLiquido\obj\Debug\ImpostoSalarioLiquido.pdb
